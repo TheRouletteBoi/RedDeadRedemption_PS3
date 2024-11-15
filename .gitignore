@@ -26,3 +26,5 @@ GTA V Script Decompiler/Resources/Entities2.dat
 *.sco
 *.opensdf
 .vs/*
+*.DS_Store
+
